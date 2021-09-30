@@ -7,5 +7,4 @@ Got a list of subjectids for the given study id + domain id
 
 Got subject data for study id + domain id + subject id
 
-Processed data to find discrepancy (diffent type of discrepancies are defined above)
-### Note: certain dates were invalid in ae and cm subject data
+Processed data to find discrepancy
